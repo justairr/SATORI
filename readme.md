@@ -1,5 +1,5 @@
 
-# <img src="./img/logo.png" width="50"> SATORI: Spatially Anchored Task Optimization with Reinforcement Learning
+# SATORI: Spatially Anchored Task Optimization with Reinforcement Learning
 
 🔗 This is the **official implementation** of **SATORI**.
 
